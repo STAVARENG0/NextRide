@@ -1,5 +1,25 @@
 [
   {
+    "id": "8ae32c71-a3d7-403a-81e1-a811ace193cf",
+    "titulo": "Citröen C5 1.6 diesel 2015",
+    "marca": "Citröen",
+    "modelo": "C5",
+    "ano": "2015",
+    "preco": 4500,
+    "km": 280000,
+    "contato": "",
+    "desc": "Citröen C5 1.6 diesel 2015\n💥NCT 06/26💥- pass yestarday\nTax 200€ per year\n280.000km\nNew disc\nNew break pads\nNew ball joint\nFull service just done\nFull vallet just done\n€ 4.500",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757967812377-1.PNG",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757967818939-2.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757967824613-3.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757967830928-4.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757967840294-5.PNG"
+    ],
+    "status": "publicado",
+    "createdAt": 1757967845884
+  },
+  {
     "id": "b91d2ade-f3cc-47da-b7a7-84e8f9ddd1a8",
     "titulo": "Qashqai +2 1.5 diesel 2010",
     "marca": "NISSAN",
