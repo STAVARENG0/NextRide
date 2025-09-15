@@ -1,5 +1,26 @@
 [
   {
+    "id": "08600061-335b-4cd7-96a4-dafa6587a76a",
+    "titulo": "Hyundai i10 1.1 petrol 2013",
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "ano": "2013",
+    "preco": 4000,
+    "km": 260000,
+    "contato": "",
+    "desc": "Hyundai i10 1.1 petrol 2013\n💥NCT 11/24💥 — pass 22/07/2025\n💥TAX 07/25💥 — 180€ per year\n- 260.000km\nFull service done\nFull vallet done\nFull tank petrol on asking price\nNo damages or issue\nRunning like a new\n€ 4.000",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757974001164-1.PNG",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757974008657-2.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757974014915-3.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757974020963-4.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757974028487-5.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757974034052-7.PNG"
+    ],
+    "status": "publicado",
+    "createdAt": 1757974039887
+  },
+  {
     "id": "8ae32c71-a3d7-403a-81e1-a811ace193cf",
     "titulo": "Citröen C5 1.6 diesel 2015",
     "marca": "Citröen",
