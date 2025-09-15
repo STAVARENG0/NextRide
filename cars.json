@@ -1,5 +1,25 @@
 [
   {
+    "id": "b91d2ade-f3cc-47da-b7a7-84e8f9ddd1a8",
+    "titulo": "Qashqai +2 1.5 diesel 2010",
+    "marca": "NISSAN",
+    "modelo": "Qashqai",
+    "ano": "2010",
+    "preco": 2650,
+    "km": 360000,
+    "contato": "",
+    "desc": "Qashqai +2 1.5 diesel \n💥NCT 03/26💥 — pass today 13/09\nPanoramic roof ✅\nNew break pads ✅\nNew wishbones✅ \nNew CV boot ✅\n4 new tyres ✅\nNew track road✅\nNew subframe ✅\nNew anti roll bar bushings ✅\nNew droplinks ✅\nReceipt for all available \n€ 2.650",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757963320898-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757963322407-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757963323294-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757963324318-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757963325231-5.jpg"
+    ],
+    "status": "publicado",
+    "createdAt": 1757963326061
+  },
+  {
     "id": "959413bd-96e7-47c7-a5f6-45b631bd6f0d",
     "titulo": "Audi A4 2.0 diesel 2014",
     "marca": "AUDI",
