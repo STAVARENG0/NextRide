@@ -1,5 +1,23 @@
 [
   {
+    "id": "9906eaa8-32c0-4eb4-bf23-3b7e7f2d1600",
+    "titulo": "Opel insignia 2.0 diesel 2011",
+    "marca": "OPEL",
+    "modelo": "insignia",
+    "ano": "2011",
+    "preco": 2500,
+    "km": 278000,
+    "contato": "",
+    "desc": "Opel insignia 2.0 diesel 2011\n💥NCT 06/26💥 — just pass\n💥TAX 08/25💥 — 200€ per year \n278.000km\nFresh nct just pass\nVallet done \nFull service done\nNew discs \nNew break pads \nNo issues or problems \n€ 2.500",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757976192166-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757976195696-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757976199014-3.jpg"
+    ],
+    "status": "publicado",
+    "createdAt": 1757976201166
+  },
+  {
     "id": "08600061-335b-4cd7-96a4-dafa6587a76a",
     "titulo": "Hyundai i10 1.1 petrol 2013",
     "marca": "HYUNDAI",
