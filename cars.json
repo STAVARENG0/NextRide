@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "959413bd-96e7-47c7-a5f6-45b631bd6f0d",
+    "titulo": "Audi A4 2.0 diesel 2014",
+    "marca": "AUDI",
+    "modelo": "A4",
+    "ano": "2014",
+    "preco": 7000,
+    "km": 320000,
+    "contato": "",
+    "desc": "Audi A4 2.0 diesel 2014\n💥NCT 12/25💥\n💥TAX 07/25💥 — 200€ per year\n— 320.000km —\nFull service done\nFull vallet done\nFull tank diesel on asking price\nNo issues damages or problems\n€ 7.000",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757962874563-1.PNG",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757962880933-3.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757962887459-4.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757962893062-5.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757962900306-6.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757962905181-7.PNG",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757962910767-8.PNG"
+    ],
+    "status": "publicado",
+    "createdAt": 1757962918000
+  }
+]
