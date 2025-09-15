@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "6f886992-6c75-4dac-a102-672e3110a019",
+    "titulo": "PASSAT 1,6TDI DISEL 105HP",
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "ano": "2020",
+    "preco": 5000,
+    "km": 290000,
+    "contato": "",
+    "desc": "aifhoasdiasdhfadjfasdfjasdjhfdajhasdfasdfjadfjk",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757965434584-Imagem_do_WhatsApp_de_2025-09-12_à(s)_12.13.07_361ebce8.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757965436075-Imagem_do_WhatsApp_de_2025-09-12_à(s)_12.13.09_5bde5a8d.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757965437293-Imagem_do_WhatsApp_de_2025-09-12_à(s)_12.13.09_6beab7e0.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757965438452-Imagem_do_WhatsApp_de_2025-09-12_à(s)_12.13.09_8ea0e828.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757965439518-Imagem_do_WhatsApp_de_2025-09-12_à(s)_12.13.09_ad123635.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1757965440617-Imagem_do_WhatsApp_de_2025-09-12_à(s)_12.13.09_f822582a.jpg"
+    ],
+    "status": "publicado",
+    "createdAt": 1757965441636
+  }
+]
