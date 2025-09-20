@@ -16,8 +16,8 @@
     ],
     "status": "sold",
     "createdAt": 1757976201166,
-    "sold": false,
-    "sold_at": null
+    "sold": true,
+    "sold_at": "2025-09-20T10:41:44.214Z"
   },
   {
     "id": "08600061-335b-4cd7-96a4-dafa6587a76a",
