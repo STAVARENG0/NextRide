@@ -1,5 +1,27 @@
 [
   {
+    "id": "f52a6e34-4458-48ed-84bf-8c7e905399d4",
+    "titulo": "Opel insígnia 2.0 diesel 2014",
+    "marca": "OPEL",
+    "modelo": "insignia",
+    "ano": "2014",
+    "preco": 4000,
+    "km": 220000,
+    "contato": "0876342891",
+    "desc": "Opel insígnia 2.0 diesel 2014\n💥NCT 03/26💥\n💥TAX 11/25💥 180€ per year \nOnly 220.000km \nFull service done 2 months ago \nFull vallet just done \n4 very good tyres\nStarting and driving with no issues \n4.000€",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334857393-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334861458-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334866723-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334870536-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334873211-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334875104-6.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1759334877462
+  },
+  {
     "id": "9906eaa8-32c0-4eb4-bf23-3b7e7f2d1600",
     "titulo": "Opel insignia 2.0 diesel 2011",
     "marca": "OPEL",
