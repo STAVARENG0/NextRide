@@ -27,10 +27,10 @@
     "marca": "OPEL",
     "modelo": "insignia",
     "ano": "2014",
-    "preco": 4000,
+    "preco": 3500,
     "km": 220000,
     "contato": "0876342891",
-    "desc": "Opel insígnia 2.0 diesel 2014\n💥NCT 03/26💥\n💥TAX 11/25💥 180€ per year \nOnly 220.000km \nFull service done 2 months ago \nFull vallet just done \n4 very good tyres\nStarting and driving with no issues \n4.000€",
+    "desc": "Opel insígnia 2.0 diesel 2014\n💥NCT 03/26💥\n💥TAX 11/25💥 180€ per year \nOnly 220.000km \nFull service done 2 months ago \nFull vallet just done \n4 very good tyres\nStarting and driving with no issues \n3.500€",
     "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334857393-1.jpg",
     "fotos": [
       "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759334861458-2.jpg",
@@ -41,7 +41,8 @@
     ],
     "status": "publicado",
     "sold": false,
-    "createdAt": 1759334877462
+    "createdAt": 1759334877462,
+    "sold_at": null
   },
   {
     "id": "9906eaa8-32c0-4eb4-bf23-3b7e7f2d1600",
