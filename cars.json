@@ -1,5 +1,27 @@
 [
   {
+    "id": "07a66eca-dc79-4bbc-9db3-ed35367529d1",
+    "titulo": "Astra 1.6 diesel 2016",
+    "marca": "OPEL",
+    "modelo": "Astra",
+    "ano": "2016",
+    "preco": 6500,
+    "km": 280000,
+    "contato": "0876342891",
+    "desc": "Astra 1.6 diesel 2016 \n💥NCT 09/26💥\n💥TAX 12/25💥 180€ per year \n—— 280.000km ——\nNew Timming chain \nNew water pump \nNew oil and filters \nFull vallet just done \n4 brand new tyres \nNo issues or problems \n€ 6.500",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759699318929-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759699322803-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759699327333-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759699331000-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759699334197-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1759699337260-6.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1759699340310
+  },
+  {
     "id": "f52a6e34-4458-48ed-84bf-8c7e905399d4",
     "titulo": "Opel insígnia 2.0 diesel 2014",
     "marca": "OPEL",
