@@ -1,5 +1,28 @@
 [
   {
+    "id": "43c4e1eb-6dd9-4aaa-a951-f4359fc47d3c",
+    "titulo": "Qashqai +2 1.5 diesel 2012",
+    "marca": "NISSAN",
+    "modelo": "Qashqai +2 1.5 diesel",
+    "ano": "2012",
+    "preco": 4000,
+    "km": 170000,
+    "contato": "",
+    "desc": "Qashqai +2 1.5 diesel 2012\n💥NCT 02/26💥\n💥TAX 02/26💥\n—— ONLY 170.000km ——\nPanoramic Roof \nFull service done 2 months ago \nFull vallet just done \n4 good tyres \nNo issues or damages \n€ 4.000",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306599331-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306600149-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306601085-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306602055-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306602802-6.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306603455-7.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306604162-8.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1760306604979
+  },
+  {
     "id": "07a66eca-dc79-4bbc-9db3-ed35367529d1",
     "titulo": "Astra 1.6 diesel 2016",
     "marca": "OPEL",
