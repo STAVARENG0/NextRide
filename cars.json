@@ -1,5 +1,27 @@
 [
   {
+    "id": "5e4a72e0-70fe-46b5-8ac9-acfaab01aea7",
+    "titulo": "Chevrolet spark 1.2 petrol 2013",
+    "marca": "Chevrolet",
+    "modelo": "spark 1.2 petrol",
+    "ano": "2013",
+    "preco": 3500,
+    "km": 130000,
+    "contato": "",
+    "desc": "Chevrolet spark 1.2 petrol 2013\n💥NCT 07/26💥 — pass 2 weeks ago \n💥TAX 12/25💥 —- 200€ per year \n—- ONLY 130.000km ———\nFull service just done \nFull vallet just done \n2 new tyres on \n€ 3.500",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306973284-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306974092-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306974811-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306975591-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306976233-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306976973-6.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1760306977646
+  },
+  {
     "id": "de07a22b-ddb4-49d6-843f-8e9016b7d8ef",
     "titulo": "BMW F10 2.0 diesel automatic 2015",
     "marca": "BMW",
