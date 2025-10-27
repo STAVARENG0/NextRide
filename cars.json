@@ -1,5 +1,28 @@
 [
   {
+    "id": "86921169-a032-4dd9-8044-993d5df18df2",
+    "titulo": "Hyundai i40 1.7 diesel 2015",
+    "marca": "HYUNDAI",
+    "modelo": "i40",
+    "ano": "2015",
+    "preco": 6500,
+    "km": 190000,
+    "contato": "",
+    "desc": "Hyundai i40 1.7 diesel 2015\n💥NCT 09/26💥\n💥TAX 03/26💥 180€ per year\n4 new tyres\nFull vallet done\nFull service done\nNew discs\nNew break pads\nNew Timming chain\nNew head gasket",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761573759247-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761573760693-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761573762049-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761573763145-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761573764769-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761573765966-6.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761573767159-7.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1761573768280
+  },
+  {
     "id": "5e4a72e0-70fe-46b5-8ac9-acfaab01aea7",
     "titulo": "Chevrolet spark 1.2 petrol 2013",
     "marca": "Chevrolet",
