@@ -1,5 +1,29 @@
 [
   {
+    "id": "3946023c-5cea-439e-923b-0a1feed66a67",
+    "titulo": "Volkswagen Touran 2.0 diesel 2011",
+    "marca": "Volkswagen",
+    "modelo": "Touran",
+    "ano": "2011",
+    "preco": 4000,
+    "km": 230000,
+    "contato": "",
+    "desc": "Volkswagen Touran 2.0 diesel 2011\n💥NCT 10/26💥\n💥TAX 11/25💥\nONLY 230.000km\nFull service just done ✅\nFull vallet just done ✅\n4 new tyres ✅\nStarting and driving great\n4.000€",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574383085-5.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574384455-6.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574385457-7.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574386564-8.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574387753-1.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574388930-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574389947-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761574391006-4.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1761574392055
+  },
+  {
     "id": "86921169-a032-4dd9-8044-993d5df18df2",
     "titulo": "Hyundai i40 1.7 diesel 2015",
     "marca": "HYUNDAI",
