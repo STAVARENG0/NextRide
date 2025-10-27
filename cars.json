@@ -1,5 +1,26 @@
 [
   {
+    "id": "489f6b5b-a286-4506-9c10-4cb78c431d90",
+    "titulo": "Volkswagen Golf 1.6 diesel",
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "ano": "2014",
+    "preco": 6500,
+    "km": 230000,
+    "contato": "",
+    "desc": "Volkswagen Golf 1.6 diesel 2014\n💥NCT 07/26💥— just pass\n💥TAX 10/25💥- 180€ per year\n-- ONLY 230.000km --\nFull service just done\nFull vallet just done\n4 brand new tyres\nMultimedia touchscreen\nReverse sensor \nNo issues or damages \n6.500€",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761601822233-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761601823327-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761601824338-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761601825506-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761601826409-6.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1761601827585
+  },
+  {
     "id": "3946023c-5cea-439e-923b-0a1feed66a67",
     "titulo": "Volkswagen Touran 2.0 diesel 2011",
     "marca": "Volkswagen",
