@@ -40,9 +40,10 @@
       "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306776295-5.jpg",
       "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1760306777341-6.jpg"
     ],
-    "status": "publicado",
-    "sold": false,
-    "createdAt": 1760306778064
+    "status": "sold",
+    "sold": true,
+    "createdAt": 1760306778064,
+    "sold_at": "2025-10-27T08:37:01.433Z"
   },
   {
     "id": "43c4e1eb-6dd9-4aaa-a951-f4359fc47d3c",
