@@ -8,7 +8,7 @@
     "preco": 4500,
     "km": 240000,
     "contato": "0876342891",
-    "desc": "Opel insígnia 2015 2.0 diesel \n💥NCT 05/26💥 — pass 28/10/2025\n💥TAX 10/25💥 180€ per year \n—- 240.000km —-\nFull vallet done \nFull service done \nMultimedia touchscreen \nParking sensor \nNew wishbones \n\n— 5.500€",
+    "desc": "Opel insígnia 2015 2.0 diesel \n💥NCT 05/26💥 — pass 28/10/2025\n💥TAX 10/25💥 180€ per year \n—- 240.000km —-\nFull vallet done \nFull service done \nMultimedia touchscreen \nParking sensor \nNew wishbones \n\n— 4.500€",
     "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852592775-1.jpg",
     "fotos": [
       "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852593734-2.jpg",
@@ -19,7 +19,8 @@
     ],
     "status": "publicado",
     "sold": false,
-    "createdAt": 1761852598098
+    "createdAt": 1761852598098,
+    "sold_at": null
   },
   {
     "id": "489f6b5b-a286-4506-9c10-4cb78c431d90",
