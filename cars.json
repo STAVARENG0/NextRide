@@ -1,5 +1,27 @@
 [
   {
+    "id": "72c550a6-fe55-491f-b82c-44e2c2c4e67a",
+    "titulo": "Opel insígnia 2015 2.0 diesel",
+    "marca": "OPEL",
+    "modelo": "insignia",
+    "ano": "2015",
+    "preco": 4500,
+    "km": 240000,
+    "contato": "0876342891",
+    "desc": "Opel insígnia 2015 2.0 diesel \n💥NCT 05/26💥 — pass 28/10/2025\n💥TAX 10/25💥 180€ per year \n—- 240.000km —-\nFull vallet done \nFull service done \nMultimedia touchscreen \nParking sensor \nNew wishbones \n\n— 5.500€",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852592775-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852593734-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852594604-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852595501-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852596486-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1761852597230-6.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1761852598098
+  },
+  {
     "id": "489f6b5b-a286-4506-9c10-4cb78c431d90",
     "titulo": "Volkswagen Golf 1.6 diesel",
     "marca": "Volkswagen",
