@@ -1,21 +1,5 @@
 [
   {
-    "id": "5bd7fd2d-a663-48c6-8e20-d71358fb723e",
-    "titulo": "Ford galaxy 2.0 diesel 7 seats",
-    "marca": "ford",
-    "modelo": "galaxy",
-    "ano": "2012",
-    "preco": 3250,
-    "km": 240000,
-    "contato": "",
-    "desc": "",
-    "foto": "",
-    "fotos": [],
-    "status": "publicado",
-    "sold": false,
-    "createdAt": 1763934244618
-  },
-  {
     "id": "f2b0a4e7-9399-4c4c-8e12-79bdcf911180",
     "titulo": "Ford focus 1.6 diesel 2012",
     "marca": "ford",
