@@ -1,5 +1,28 @@
 [
   {
+    "id": "0a8ef457-13d1-45b1-bd76-22d4dfc17c99",
+    "titulo": "Santa Fe 2.2 diesel 2014",
+    "marca": "Hyundai",
+    "modelo": "santa fe",
+    "ano": "2014",
+    "preco": 7500,
+    "km": 340000,
+    "contato": "",
+    "desc": "Santa Fe 2.2 diesel 2014 \n💥NCT 11/26💥 pass on 20/11/2025 \n💥TAX 01/26💥 —- 400€ per year \n—- 7 seats —-\n4 new tyres  \nFull service just done  \nFull vallet done  \nNew discs  \nNew break pads\nNo issues or damages  \nNew turbo \n7.500€",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934724803-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934726443-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934727384-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934728202-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934729116-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934730221-6.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934731163-7.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1763934732019
+  },
+  {
     "id": "36422c5e-aced-43f6-85dc-f50b9d213f24",
     "titulo": "Ford galaxy 2.0 diesel 7 seats",
     "marca": "ford",
