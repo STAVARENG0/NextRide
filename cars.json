@@ -1,5 +1,28 @@
 [
   {
+    "id": "36422c5e-aced-43f6-85dc-f50b9d213f24",
+    "titulo": "Ford galaxy 2.0 diesel 7 seats",
+    "marca": "ford",
+    "modelo": "galaxy",
+    "ano": "2012",
+    "preco": 3250,
+    "km": 3000,
+    "contato": "",
+    "desc": "Ford galaxy 2.0 diesel 7 seats \n💥NCT 03/26💥\nTax 280€ per year \n300.000km\nFull vallet just done \nFull service done 3 weeks ago \nNo issues or damages \n€ 3.250",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934526430-1.jpeg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934528413-2.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934529466-3.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934530532-4.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934531592-5.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934532699-6.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934533756-7.jpeg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1763934534788
+  },
+  {
     "id": "f2b0a4e7-9399-4c4c-8e12-79bdcf911180",
     "titulo": "Ford focus 1.6 diesel 2012",
     "marca": "ford",
