@@ -1,5 +1,27 @@
 [
   {
+    "id": "f2b0a4e7-9399-4c4c-8e12-79bdcf911180",
+    "titulo": "Ford focus 1.6 diesel 2012",
+    "marca": "ford",
+    "modelo": "focus",
+    "ano": "2012",
+    "preco": 3300,
+    "km": 240000,
+    "contato": "",
+    "desc": "Ford focus 1.6 diesel 2012 \n💥NCT 11/26💥 pass on 16/11/2025\n💥TAX 12/25💥 — 190€ per year \n4 new tyre \nNew injector \nFull service just done \nFull vallet just done \nStart and drive perfect \n€ 3.200",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934132312-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934133692-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934134589-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934135475-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934136450-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1763934137316-6.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1763934138259
+  },
+  {
     "id": "72c550a6-fe55-491f-b82c-44e2c2c4e67a",
     "titulo": "Opel insígnia 2015 2.0 diesel",
     "marca": "OPEL",
