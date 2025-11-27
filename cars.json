@@ -1,5 +1,26 @@
 [
   {
+    "id": "5422a6a6-5969-445b-82e0-9791dc8323fd",
+    "titulo": "VW Golf 1.6 diesel 2015",
+    "marca": "VW",
+    "modelo": "GOLF",
+    "ano": "2015",
+    "preco": 7500,
+    "km": 280000,
+    "contato": "",
+    "desc": "VW Golf 1.6 diesel 2015 \nNCT 11/26 pass yestarday  26/11\nTAX 01/26 180€ per year  \n280.000km \n4 new tyres  \nTracking and balancing done \nFull service done  \nFull vallet done  \nNew break pads  \nNo issues or damages \n€ 7.500",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1764271406487-1.jpeg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1764271407419-2.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1764271408281-3.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1764271409226-4.jpeg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1764271410175-5.jpeg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1764271410894
+  },
+  {
     "id": "0a8ef457-13d1-45b1-bd76-22d4dfc17c99",
     "titulo": "Santa Fe 2.2 diesel 2014",
     "marca": "Hyundai",
