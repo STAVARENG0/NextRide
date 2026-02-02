@@ -1,5 +1,27 @@
 [
   {
+    "id": "ad9bd3c6-bdbf-4400-932c-3e9679a5a9e0",
+    "titulo": "VW Golf 1.6 diesel 2016",
+    "marca": "VW",
+    "modelo": "GOLF",
+    "ano": "2016",
+    "preco": 7650,
+    "km": 280000,
+    "contato": "",
+    "desc": "VW Golf 1.6 diesel 2016 \n💥NCT 09/26💥\n💥 Will go with 3 months tax paid 💥\n—- 320.000km ——\nFull service just done \nFull vallet just done \nnew tyres\nTracking and balancing done \nTax 180€ per year \n€ 7.650",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770073874880-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770073875849-1.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770073876872-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770073877828-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770073878923-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770073880040-5.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1770073881077
+  },
+  {
     "id": "5422a6a6-5969-445b-82e0-9791dc8323fd",
     "titulo": "VW Golf 1.6 diesel 2015",
     "marca": "VW",
