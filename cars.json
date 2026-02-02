@@ -1,5 +1,29 @@
 [
   {
+    "id": "bbfe6522-0824-4328-a812-26a344042318",
+    "titulo": "Audi A3 1.2 petrol cabrio 2011",
+    "marca": "AUDI",
+    "modelo": "Audi A3 1.2 petrol cabrio",
+    "ano": "2011",
+    "preco": 7200,
+    "km": 120000,
+    "contato": "",
+    "desc": "Audi A3 1.2 petrol cabrio 2011\n💥NCT 05/26💥 — pass 2 weeks ago \nTax 270€ per year \n—— ONLY 120.000km ——- \nNew tyres \nFull service just done \nFull vallet just done \n2 owners since new \nNo issues or damages \nAll working great , no problems \n€ 7.200",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074042735-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074044172-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074045294-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074046305-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074047364-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074048392-6.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074049456-7.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074050737-8.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1770074051743
+  },
+  {
     "id": "ad9bd3c6-bdbf-4400-932c-3e9679a5a9e0",
     "titulo": "VW Golf 1.6 diesel 2016",
     "marca": "VW",
