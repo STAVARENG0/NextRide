@@ -1,5 +1,27 @@
 [
   {
+    "id": "f2771c5e-0301-4728-98de-f0f1b71da6a6",
+    "titulo": "Audi A6 2.0 diesel 2014",
+    "marca": "AUDI",
+    "modelo": "A6",
+    "ano": "2014",
+    "preco": 8650,
+    "km": 240,
+    "contato": "",
+    "desc": "Audi A6 2.0 diesel 2014\n💥NCT 08/26💥\n💥TAX 07/26💥\n— AUTOMATIC—\nNEW TIMMING BELT \nNEW WATER PUMP \nNEW FLYWHEEL \nFULL SERVICE JUST DONE \nGEARBOX SERVICE JUST DONE\n4 new tyres \nTracking and balancing done  \nNew break pads   \nReceipt for all available \n€ 8.650",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074639747-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074640902-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074641899-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074642922-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074643976-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1770074644950-6.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1770074646019
+  },
+  {
     "id": "bbfe6522-0824-4328-a812-26a344042318",
     "titulo": "Audi A3 1.2 petrol cabrio 2011",
     "marca": "AUDI",
