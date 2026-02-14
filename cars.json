@@ -1,5 +1,26 @@
 [
   {
+    "id": "4ee94f1d-744d-449e-8727-808534d57512",
+    "titulo": "Hyundai i40 1.7 diesel 2015",
+    "marca": "Hyundai",
+    "modelo": "i40",
+    "ano": "2015",
+    "preco": 6000,
+    "km": 240000,
+    "contato": "",
+    "desc": "Hyundai i40 1.7 diesel 2015\n💥NCT 02/27💥\nTax 200€ per year  \n——240.000km ——-\nNew timing chain \nNew water pump \nNew head gasket\nNew break pads \nNew discs  \n4 new tyres \nFull service just done  \n6.000€",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1771075886889-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1771075887775-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1771075888585-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1771075889576-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1771075890356-5.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1771075890945
+  },
+  {
     "id": "f2771c5e-0301-4728-98de-f0f1b71da6a6",
     "titulo": "Audi A6 2.0 diesel 2014",
     "marca": "AUDI",
