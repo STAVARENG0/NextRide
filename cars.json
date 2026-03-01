@@ -1,5 +1,28 @@
 [
   {
+    "id": "ef554c20-803f-47c2-8487-7f5db6a0db6f",
+    "titulo": "Chevrolet aveo 1.2 petrol 2011",
+    "marca": "Chevrolet",
+    "modelo": "aveo 1.2 petrol",
+    "ano": "2011",
+    "preco": 2650,
+    "km": 170000,
+    "contato": "",
+    "desc": "Chevrolet aveo 1.2 petrol 2011 \n💥NCT 12/26💥 — pass on 13/02/2026\n💥TAX 04/26💥\n—- 170.000km ——\nFull service just done \nFull vallet just done \nNo issues or problem \nStarting and driving great \n2.650€",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1772361465018-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1772361465796-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1772361466644-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1772361467423-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1772361468154-5.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1772361468895-6.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1772361469551-7.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1772361470173
+  },
+  {
     "id": "4ee94f1d-744d-449e-8727-808534d57512",
     "titulo": "Hyundai i40 1.7 diesel 2015",
     "marca": "Hyundai",
