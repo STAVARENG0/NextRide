@@ -1,5 +1,26 @@
 [
   {
+    "id": "e0f11a57-2ac2-4394-bf7c-5c41e8f7a85f",
+    "titulo": "Peugeot 208 1.2 petrol",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "ano": "2016",
+    "preco": 5000,
+    "km": 170000,
+    "contato": "",
+    "desc": "Peugeot 208 1.2 petrol TESTED \n💥NCT 03/27💥\n💥TAX 04/26💥\n—- ONLY 170.000km ——-\n4 new tyres \nTracking and balancing done \nFull service done \nFull vallet done \nNo issues or damages \n€ 5.000",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700621901-1.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700622804-2.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700623544-3.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700624291-4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700625109-5.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1774700625819
+  },
+  {
     "id": "ef554c20-803f-47c2-8487-7f5db6a0db6f",
     "titulo": "Chevrolet aveo 1.2 petrol 2011",
     "marca": "Chevrolet",
