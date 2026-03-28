@@ -1,5 +1,26 @@
 [
   {
+    "id": "fc85c7d5-befb-44b8-9198-ffc16367984e",
+    "titulo": "Opel Insignia 2016 2,0 Diesel",
+    "marca": "OPEL",
+    "modelo": "Insignia",
+    "ano": "2016",
+    "preco": 5500,
+    "km": 200000,
+    "contato": "",
+    "desc": "Opel Insignia 2016 2,0 Diesel\nNCT 06/26\ntax 200 per year only\nFull service just done\n4 new tyres \nnew break pads\nreverse sensor \nleather seats\nno issues or damages \n5.500",
+    "foto": "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700848907-eb45c0f3-03f2-426f-bffb-533b07f19d4b.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700849745-5bbc594b-1d9c-479b-95e4-2d9213a58eb4.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700850610-182ee731-578b-4a48-b71e-678ea6c67e4c.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700851470-b78811c6-1865-423a-9617-30ed7d47d012.jpg",
+      "https://raw.githubusercontent.com/STAVARENG0/NextRide/main/imagens/1774700852335-d5aa556e-0b7e-48f6-a58e-2bd2169d0ae1.jpg"
+    ],
+    "status": "publicado",
+    "sold": false,
+    "createdAt": 1774700853166
+  },
+  {
     "id": "e0f11a57-2ac2-4394-bf7c-5c41e8f7a85f",
     "titulo": "Peugeot 208 1.2 petrol",
     "marca": "Peugeot",
